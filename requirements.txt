@@ -1,0 +1,19 @@
+# requirements.txt — PIGPVAE
+# Tested with Python 3.11.7
+
+# Core deep‑learning & probabilistic modelling
+torch==2.3.0          
+gpytorch==1.11.0
+torchdiffeq==0.2.4
+
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+
+jupyterlab==4.1.6
+ipykernel==6.29.4
+
+tqdm==4.66.4
+pyyaml==6.0.2

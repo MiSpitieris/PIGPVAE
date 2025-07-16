@@ -21,7 +21,6 @@ If you use this code, **please cite the paper** (see the *Citation* section).
 5. [Datasets](#datasets)
 6. [Citation](#citation)
 7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
 
 ---
 

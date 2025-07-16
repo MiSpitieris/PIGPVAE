@@ -102,7 +102,7 @@ dec_phy = NewtonsLaw()             # physics decoder: Newton’s law of cooling
 | HVAC OOD generation | `Notebooks_R4_limited/_PIGPVAE_cooling.ipynb.ipynb` | *Run all cells* |
 | Pendulum synthetic study | `Notebooks_Pendulum/PIGPVAE_Pendulum.ipynb` | *Run all cells* |
 
-Each notebook folder trains PIGPVAE *and* baseline models (PIVAE and GPVAE), reproducing the figures & metrics reported in the paper in the realted metrics notebooks.
+Each notebook folder trains PIGPVAE *and* baseline models (PIVAE and GPVAE), reproducing the figures & metrics reported in the paper in the related metrics notebooks.
 
 ---
 

@@ -73,8 +73,8 @@ The **fastest way** to see PIGPVAE in action is to open the demo notebooks:
 ```bash
 # Launch Jupyter Lab / Notebook
 jupyter lab
-# then open Notebooks_R4/_PIGPVAE_cooling.ipynb.ipynb (in‑distribution) or
-#      Notebooks_R4_limited/_PIGPVAE_cooling.ipynb.ipynb (out‑of‑distribution)
+# then open Notebooks_R4/_PIGPVAE_cooling.ipynb (in‑distribution) or
+#      Notebooks_R4_limited/_PIGPVAE_cooling.ipynb (out‑of‑distribution)
 ```
 
 ### Minimal Python snippet

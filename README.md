@@ -115,12 +115,15 @@ Each notebook folder trains PIGPVAE *and* baseline models (PIVAE and GPVAE), rep
 ## Citation
 
 ```bibtex
-@article{Spitieris2025PIGPVAE,
-  title   = {PIGPVAE: Physics-Informed Gaussian Process Variational Autoencoders},
-  author  = {Spitieris, Michail and Ruocco, Massimiliano and Murad, Abdulmajid and Nocente, Alessandro},
-  journal = {Applied Intelligence},
-  year    = {2025},
-  note    = {In press}
+@article{spitieris2025pigpvae,
+  title={PIGPVAE: physics-informed gaussian process variational autoencoders},
+  author={Spitieris, Michail and Ruocco, Massimiliano and Murad, Abdulmajid and Nocente, Alessandro},
+  journal={Applied Intelligence},
+  volume={55},
+  number={12},
+  pages={894},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
